@@ -7,7 +7,7 @@
 
 ## Dᴇᴘᴏʏ Tᴏ Hᴇʀᴏᴋᴜ
 
-[![Deploy](https://img.shields.io/badge/Deploy%20To-Heroku-blueviolet)](https://dashboard.heroku.com/new?button-url=android-app%3A%2F%2Forg.telegram.messenger%2F&template=https%3A%2F%2Fgithub.com%log-afk-xd%Jarvis_Bot)
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/shiinobu/SiestaRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## Mᴀᴅᴇ Bʏ
 
